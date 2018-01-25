@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemosApplication {
 
 	public static void main(String[] args) {
-		System.out.println("实验");
+		System.out.println("ccc");
 		SpringApplication.run(DemosApplication.class, args);
 	}
 }
